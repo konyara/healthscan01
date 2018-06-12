@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ミーティングルーム" max_length="40" name="x_snc_healthscan_meeting_room" type="collection"/>
+</database>
